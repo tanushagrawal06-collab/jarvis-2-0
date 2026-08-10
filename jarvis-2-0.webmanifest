@@ -1,0 +1,9 @@
+{
+  "name": "Jarvis 2.0",
+  "short_name": "Jarvis 2.0",
+  "start_url": "jarvis-2-0.html",
+  "display": "standalone",
+  "background_color": "#03101f",
+  "theme_color": "#03101f",
+  "description": "Your personal voice assistant."
+}
